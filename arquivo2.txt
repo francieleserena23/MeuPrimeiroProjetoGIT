@@ -1,1 +1,3 @@
 Meu segundo arquivo no git
+
+este texto eu quero apagar
